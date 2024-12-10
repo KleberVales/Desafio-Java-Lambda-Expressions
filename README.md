@@ -15,3 +15,13 @@ As entradas são tratadas por um código fornecido no editor.
 O código fornecido no editor imprimirá as linhas de saída.
 
 ### Exemplo de Entrada:
+
+```
+5
+1 4
+2 5
+3 898
+1 3
+2 12
+
+```
