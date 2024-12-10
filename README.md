@@ -13,3 +13,5 @@ As entradas são tratadas por um código fornecido no editor.
 
 ### Formato de Saída
 O código fornecido no editor imprimirá as linhas de saída.
+
+### Exemplo de Entrada:
