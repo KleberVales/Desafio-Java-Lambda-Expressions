@@ -30,3 +30,5 @@ O código fornecido no editor imprimirá as linhas de saída.
 - As 𝑇 linhas seguintes descrevem cada caso de teste no formato de dois números inteiros separados por espaço:
   * O primeiro número indica a condição a ser verificada (1 para Ímpar/Par, 2 para Primo ou 3 para Palíndromo).
   * O segundo número é o número a ser verificado.
+
+### Exemplo de Saída:
