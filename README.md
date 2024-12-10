@@ -9,3 +9,4 @@ Escreva os seguintes métodos que retornam uma expressão lambda realizando uma 
 3. PerformOperation isPalindrome(): A expressão lambda deve retornar se um número é um palíndromo ou se não é.
 
 ### Formato de Entrada
+As entradas são tratadas por um código fornecido no editor.
