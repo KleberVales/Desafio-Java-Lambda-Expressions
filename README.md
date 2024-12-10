@@ -32,3 +32,12 @@ O código fornecido no editor imprimirá as linhas de saída.
   * O segundo número é o número a ser verificado.
 
 ### Exemplo de Saída:
+
+```
+EVEN
+PRIME
+PALINDROME
+ODD
+COMPOSITE
+
+```
