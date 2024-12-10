@@ -6,3 +6,4 @@ Escreva os seguintes métodos que retornam uma expressão lambda realizando uma 
 
 1. PerformOperation isOdd(): A expressão lambda deve retornar se um número é ímpar ou se é par.
 2. PerformOperation isPrime(): A expressão lambda deve retornar se um número é primo ou se é composto.
+3. PerformOperation isPalindrome(): A expressão lambda deve retornar se um número é um palíndromo ou se não é.
