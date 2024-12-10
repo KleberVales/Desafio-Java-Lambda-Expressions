@@ -25,3 +25,5 @@ O código fornecido no editor imprimirá as linhas de saída.
 2 12
 
 ```
+
+- A primeira linha contém um número inteiro 𝑇, que representa o número de casos de teste.
