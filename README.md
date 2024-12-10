@@ -10,3 +10,5 @@ Escreva os seguintes métodos que retornam uma expressão lambda realizando uma 
 
 ### Formato de Entrada
 As entradas são tratadas por um código fornecido no editor.
+
+### Formato de Saída
